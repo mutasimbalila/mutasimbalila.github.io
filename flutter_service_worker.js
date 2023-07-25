@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "5808e04ae3f577cbdddc575324835019",
-"assets/AssetManifest.json": "2c239637b716c515ecbfaa5723d53d6d",
+const RESOURCES = {"assets/AssetManifest.bin": "c61ea90150f87e0c71363674a9791ed4",
+"assets/AssetManifest.json": "b891a6869c171617a91929e3cfc9f8dc",
 "assets/assets/animated_more.gif": "93e9a902c40986d1c194487f8f1b7f61",
 "assets/assets/background.jpg": "0af1ea1f973185d63ec418f4642d48bd",
 "assets/assets/background2.jpg": "7c070c6657de5cb90eb45d7b503a833e",
@@ -17,6 +17,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5808e04ae3f577cbdddc575324835019
 "assets/assets/stackoverflow.svg": "653469d0224268c01a9cd49c8ac6d819",
 "assets/assets/test2.jpg": "c2ae8997410684086efe6cc170c3f109",
 "assets/assets/twitter.svg": "11befa99ebb3aa8b5113f8f7e8d037fa",
+"assets/assets/under_construction.svg": "d359ea621de3cbfbdf6c3b748cbeb3c2",
 "assets/assets/youtube.svg": "388e8ea7f8e0151f7c7f144f8c708ae9",
 "assets/FontManifest.json": "720828089da2cbb298eb41eddbf9fadd",
 "assets/fonts/Comfortaa-Bold.ttf": "2df2dd0ee326686649aadb345e25c32c",
@@ -41,9 +42,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "5808e04ae3f577cbdddc575324835019
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "30a7bd318d9dd0d0d4022f477ae60e68",
-"/": "30a7bd318d9dd0d0d4022f477ae60e68",
-"main.dart.js": "8c1bb437c2f785e9eb6b37bbd680d340",
+"index.html": "ab728154594528a488c3eced488a02be",
+"/": "ab728154594528a488c3eced488a02be",
+"main.dart.js": "8d304114162d63274af7341c59c24b0a",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
