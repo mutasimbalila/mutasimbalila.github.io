@@ -97634,7 +97634,7 @@ n=n==null?s:n.gcA(n)
 o=A.aMY(B.aq,B.Mx,(n==null?"en":n)==="en"?"FF.Mark":r,B.Cy,B.N7,o,s)
 n=q.a
 n=n==null?s:n.gcA(n)
-return new A.rG(new A.eI(new A.aoi(),s),"Flutter Demo",A.aMY(B.au,B.My,(n==null?"en":n)==="en"?"FF.Mark":r,B.Cy,B.Ou,B.aeT,s),o,p,q.a,B.T8,$.ru,!1,s)},
+return new A.rG(new A.eI(new A.aoi(),s),"Balila Portfolio",A.aMY(B.au,B.My,(n==null?"en":n)==="en"?"FF.Mark":r,B.Cy,B.Ou,B.aeT,s),o,p,q.a,B.T8,$.ru,!1,s)},
 $S:580}
 A.aoi.prototype={
 $1(a){return B.a80},
