@@ -3,21 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0a2fb0173e1263f58614cbd65e30e5c2",
-"assets/AssetManifest.json": "726f20333a6851d7879cb667b7c84bfc",
+const RESOURCES = {"assets/AssetManifest.bin": "429d9a7ac6b9f825a78663040424ad01",
+"assets/AssetManifest.json": "f0fdcb1e40346962790d5ab95a876852",
 "assets/assets/address.svg": "85ce3def2b3bb10eb033106fb9585044",
 "assets/assets/books.svg": "14fa210aefb6ed18523c14521c3cd94c",
 "assets/assets/design_icon.svg": "651996fe45589a61711fbeb9a61bea0f",
-"assets/assets/dummy.jpeg": "9ebe27a4513fb3da5e1e2f3e8ac9168e",
 "assets/assets/email.svg": "47c98a0fded506e35f4228470420ef24",
 "assets/assets/facebook_icon.svg": "8c88f068872454e059de1426e9c575b2",
 "assets/assets/game.svg": "1baee48a896e8bf4b9cb9bfe8b1f59e3",
 "assets/assets/github_icon.svg": "4ffff9ff8ae6d92b5837b479de75dff7",
 "assets/assets/linkedin_icon.svg": "cc9028407fa177429007a4e12258af00",
-"assets/assets/M.Almutasim_CV_9SEP23.pdf": "02dcb920c9a3182dc31f5dd20b90b959",
+"assets/assets/M.Almutasim_CV_9SEP23.pdf": "96e39f5c0c24949a18acc6d9e7d37723",
 "assets/assets/man_tec.svg": "087e5ba3cbab7e212f63862cb9d42445",
 "assets/assets/medal_icon.svg": "11584db9ebce6184090c93daef26770e",
-"assets/assets/person.png": "c81f65536a43966ab68bb8b8e07787ed",
 "assets/assets/phone.svg": "8a2184e0b3f8852eb04e95e4776c8a4a",
 "assets/assets/podcast.svg": "5989385baba1823ec6c8455095366264",
 "assets/assets/port_sudan.jpg": "52f0b48f435c4c5cf07cf08192893082",
@@ -57,13 +55,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "0a2fb0173e1263f58614cbd65e30e5c2
 "icons/Icon-512.png": "25e33057a6112d8baca06361e62942aa",
 "icons/Icon-maskable-192.png": "2818cec643beecd8eb138ccdfd869aae",
 "icons/Icon-maskable-512.png": "25e33057a6112d8baca06361e62942aa",
-"img/Icon-192.png": "2818cec643beecd8eb138ccdfd869aae",
-"img/loading.gif": "3aecfc5b9027386ba13b6a7539bb83ff",
-"index.html": "bfe523b1b31847afb3365bbf35025b3d",
-"/": "bfe523b1b31847afb3365bbf35025b3d",
-"main.dart.js": "5b6632a5ffddba583d968ee49d31f679",
+"img/loading_code.gif": "e875ebc820b156f3c86184b6a26b84a9",
+"index.html": "71264a15a9a902f0be061dc0614feb4b",
+"/": "71264a15a9a902f0be061dc0614feb4b",
+"main.dart.js": "b0d28e091e7fe30ce9bc45fd919e4220",
 "manifest.json": "a35a6a8fbf0e3e7052cf3c4093b87ef6",
-"styles.css": "aa2e098e8f121fff837a3fe56377f3d0",
+"styles.css": "dc0cbb018562ce2c87844fe2bbc4f264",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
 // start.
