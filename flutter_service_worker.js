@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4c8811321c71d242d685a870044f9b2f",
-"assets/AssetManifest.json": "e92588b967e1ce1c50dc2adb865b5f32",
+const RESOURCES = {"assets/AssetManifest.bin": "4171c21db52fd1202c7a03d73b3be2b2",
+"assets/AssetManifest.json": "e4c47ef276dd87b277e544affe442e25",
 "assets/assets/address.svg": "1d408eb95497c5e7048b49e3d3bf6e98",
 "assets/assets/books.svg": "e452e23b202deb1ce82542da712d3b1c",
 "assets/assets/design_icon.svg": "d5c62d2944e9711135bd732aef77014b",
@@ -25,6 +25,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c8811321c71d242d685a870044f9b2f
 "assets/assets/technician_icon.svg": "75f39d8a0a42165ce15f2a2da4d15833",
 "assets/assets/travel.svg": "bddb0dcbcedff0f1aa0074b3715f3920",
 "assets/assets/twitter_icon.svg": "7e145c9eb60da95379f070be9920eca5",
+"assets/assets/whatsapp_icon.svg": "46ab9d26a7e92dc5a4e6b504a540a7fd",
 "assets/FontManifest.json": "29f902c51164ea55de7621de6ebc4fed",
 "assets/fonts/cairo/Cairo-Black.ttf": "d5cfdef0ee5e1b9765295e3b58f43233",
 "assets/fonts/cairo/Cairo-Bold.ttf": "ad486798eb3ea4fda12b90464dd0cfcd",
@@ -70,9 +71,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c8811321c71d242d685a870044f9b2f
 "icons/Icon-maskable-192.png": "2818cec643beecd8eb138ccdfd869aae",
 "icons/Icon-maskable-512.png": "25e33057a6112d8baca06361e62942aa",
 "img/loading_code.gif": "e875ebc820b156f3c86184b6a26b84a9",
-"index.html": "fbb248fc346eca755e97532901cae960",
-"/": "fbb248fc346eca755e97532901cae960",
-"main.dart.js": "a68e98aef0300a7090b65f2ac02a1c54",
+"index.html": "73e964fd17abcb827c3b9fd733926b2f",
+"/": "73e964fd17abcb827c3b9fd733926b2f",
+"main.dart.js": "fac3f965b0d0f5fe3bf55e100090a303",
 "manifest.json": "69c4c678e6d585e697146578e5eb87e7",
 "styles.css": "3ff4b86a0be8b09eaacbd983e0ef8164",
 "version.json": "009c9e65172e010890f7f65fde438006"};
