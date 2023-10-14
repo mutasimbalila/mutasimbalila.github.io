@@ -36,7 +36,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1243519788";
+    const serviceWorkerVersion = "1852692754";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -45,13 +45,13 @@
 <body>
   <img src="img/loading_code.gif" width="180" class="center" />
   <footer>
-      <div class="footer">
+    <div class="footer">
 
 
-          <div class="row">
-              Developed By Mohammed Almutasim Balila © 2023
-          </div>
+      <div class="row">
+        Developed By Mohammed Almutasim Balila © 2023
       </div>
+    </div>
   </footer>
 
 
@@ -60,6 +60,7 @@
     window.addEventListener('load', function (ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
+        entrypointUrl: "main.dart.js?v=" + serviceWorkerVersion,
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
         },
